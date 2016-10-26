@@ -1,0 +1,63 @@
+Tesla Motor 
+
+Feature 1 - This app can open the door for you and show the difference between lock, unlocked, open or close. 
+
+	Condition 1 - The user can see a lock sign if the door is lock.
+		User - I can see the lock icon if the door is locked.
+
+	Condition 2 - The app can unlock the door by clicking the unlock icon. 
+		User - I can hear the unlock sound when I tap the unlock button.
+
+	Condition 3 - The user can see the door is not open even though the door is unlocked.
+		User - The animation of the car door didn’t show it was open but it did show it is unlock. 
+
+	Condition 4 - The app clear enough space for user to open the car door.
+		User - I can open the door once I press the open door button without the door handle.
+
+	Condition 5 - The app will indicate the door is opened when they open the door. 
+		User - I can see the animation of the door open if I left my door open.
+
+	Condition 6 - The lock the car after the lock icon is press.
+		User - I can hear the door lock once I pressed the lock button. 
+			
+
+Feature 2 - This car start the engine for you or warm up the car.
+
+	Condition 1 - The user can preset time to start engine
+		User - I can set a timer to when to start the engine.
+
+	Condition 2 - The user can see the current temperature
+		User - I can observe what the current temperature is inside the car.
+
+	Condition 3 - The user can adjust the air conditioner to their desire temperature.
+		User- I can manually change the temperature by pressing up and down.
+
+	Condition 4 - The user can turn the climate control on or off.
+		User - I can turn the climate control on or off by pressing the ‘turn on’ or ‘turn off’ button.
+
+	Condition 5 - The user can see the climate control is on or off.
+		User - I can see the animation of airflow if it is on or off.
+
+	Condition 6 - The user can start the engine immediately by pressing the start button.
+		User - I can start my engine immediately by pressing the start button 
+
+
+Feature 3 - This car can see the milage or energy left. 
+
+	Condition 1 - The user can see the car is charging on app.
+		User - I can see the charging sign when I plug my charger into my car
+
+	Condition 2 - The app calculate the amount of time it requires to charge a car.
+		User - I can see how long does the charger takes to charge my car to full.
+
+	Condition 3 - The app indicate the remaining milage of the state of battery.
+		User - I can see how many miles are left with my current battery charge. 
+
+	Condition 4 - The app also indicates the charging rate of different charger.
+		User - I can see the charging rate, voltage and Amp.
+
+	Condition 5 - The app notify the user if the battery of the car is running low.
+		User - I receive a notification that the car is running low of power and need to charge soon.
+
+	Condition 6 - The app send out a notification when the battery is full
+		User - I gets a notification when the battery is fully charged. 
